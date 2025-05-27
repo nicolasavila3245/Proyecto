@@ -1,0 +1,13 @@
+[
+  "test_tienda_libros.py::test_cargar_caja_desde_db_existente",
+  "test_tienda_libros.py::test_database_manager_initialization",
+  "test_tienda_libros.py::test_esquema_base_datos",
+  "test_tienda_libros.py::test_execute_query_select",
+  "test_tienda_libros.py::test_integracion_registro_y_venta_libro",
+  "test_tienda_libros.py::test_libro_creacion",
+  "test_tienda_libros.py::test_libro_str",
+  "test_tienda_libros.py::test_registrar_libro_exitoso",
+  "test_tienda_libros.py::test_transaccion_creacion",
+  "test_tienda_libros.py::test_transaccion_str",
+  "test_tienda_libros.py::test_vender_libro_sin_stock"
+]
